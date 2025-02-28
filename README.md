@@ -34,9 +34,9 @@
 
 ## **📸 Screenshots**  
 
-| ✨ Login | 💬 Chat Interface | 🌙 Dark Mode |
+| ✨ Login / Sign In | 💬 Chat Interface | 🔄 Modes |
 |------|------|------|
-| ![Login](https://source.unsplash.com/400x300/?login,tech) | ![Chat](https://source.unsplash.com/400x300/?chat,app) | ![Dark Mode](https://source.unsplash.com/400x300/?dark,mode) |
+| ![Login / Sign In](https://source.unsplash.com/400x300/?login,tech) | ![Chat](https://source.unsplash.com/400x300/?chat,app) | ![Modes](https://source.unsplash.com/400x300/?theme,mode) |
 
 ---
 
@@ -66,7 +66,7 @@ npm start
 
 💡 Got ideas? Found a bug? PRs are welcome!  
 
-📩 **Contact Me:**   
+📩 **Contact Me:**  
 📧 **Email:** [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)  
 🔗 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)  
 📸 **Instagram:** [TusharDevX01](https://www.instagram.com/tushardevx01/)  
