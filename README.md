@@ -2,7 +2,7 @@
 🚀 *A lightning-fast, real-time chat application with an elegant UI and seamless performance.*  
 
 <p align="center">
-  <img src="https://source.unsplash.com/1200x400/?chat,technology" alt="Chat App Banner">
+  <img src="https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/chat_application%20logo.png?raw=true" alt="Chat App Banner">
 </p>
 
 ---
