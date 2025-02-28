@@ -27,7 +27,7 @@
 ✅ **Live Chat** – Real-time messaging powered by WebSockets  
 ✅ **Private & Group Chats** – Chat 1-on-1 or in groups  
 ✅ **Secure Authentication** – JWT & Google OAuth login  
-✅ **Sleek UI** – Modern, responsive design with dark mode support 🌙  
+✅ **Sleek UI** – Modern, responsive design with mode switching 🔄  
 ✅ **Fast & Scalable** – Optimized for speed & efficiency  
 
 ---
@@ -36,7 +36,7 @@
 
 | ✨ Login / Sign In | 💬 Chat Interface | 🔄 Modes |
 |------|------|------|
-| ![Login / Sign In](https://source.unsplash.com/400x300/?login,tech) | ![Chat](https://source.unsplash.com/400x300/?chat,app) | ![Modes](https://source.unsplash.com/400x300/?theme,mode) |
+| ![Login](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Log%20in.png?raw=true) | ![Chat](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Chat%20Interface.png?raw=true) | ![Modes](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Modes.png?raw=true) |
 
 ---
 
