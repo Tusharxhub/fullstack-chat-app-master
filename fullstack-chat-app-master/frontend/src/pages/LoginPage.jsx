@@ -49,7 +49,11 @@ const LoginPage = () => {
                 <input
                   type="email"
                   className={`input input-bordered w-full pl-10`}
+<<<<<<< HEAD
                   placeholder="you@example.com"
+=======
+                  placeholder="enter your mail id"
+>>>>>>> 417ad81 (initialize fullstack chat application with React, Vite, and Express; add dotenv for environment variable management)
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                 />
