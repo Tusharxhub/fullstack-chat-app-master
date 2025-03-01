@@ -2,7 +2,7 @@
 🚀 *A lightning-fast, real-time chat application with an elegant UI and seamless performance.*  
 
 <p align="center">
-  <img src="https://source.unsplash.com/1200x400/?chat,technology" alt="Chat App Banner">
+  <img src="https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/chat_application%20logo.png?raw=true" alt="Chat App Banner">
 </p>
 
 ---
@@ -27,16 +27,16 @@
 ✅ **Live Chat** – Real-time messaging powered by WebSockets  
 ✅ **Private & Group Chats** – Chat 1-on-1 or in groups  
 ✅ **Secure Authentication** – JWT & Google OAuth login  
-✅ **Sleek UI** – Modern, responsive design with dark mode support 🌙  
+✅ **Sleek UI** – Modern, responsive design with mode switching 🔄  
 ✅ **Fast & Scalable** – Optimized for speed & efficiency  
 
 ---
 
 ## **📸 Screenshots**  
 
-| ✨ Login | 💬 Chat Interface | 🌙 Dark Mode |
+| ✨ Login / Sign In | 💬 Chat Interface | 🔄 Modes |
 |------|------|------|
-| ![Login](https://source.unsplash.com/400x300/?login,tech) | ![Chat](https://source.unsplash.com/400x300/?chat,app) | ![Dark Mode](https://source.unsplash.com/400x300/?dark,mode) |
+| ![Login](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Log%20in.png?raw=true) | ![Chat](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Chat%20Interface.png?raw=true) | ![Modes](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Modes.png?raw=true) |
 
 ---
 
@@ -66,7 +66,7 @@ npm start
 
 💡 Got ideas? Found a bug? PRs are welcome!  
 
-📩 **Contact Me:**   
+📩 **Contact Me:**  
 📧 **Email:** [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)  
 🔗 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)  
 📸 **Instagram:** [TusharDevX01](https://www.instagram.com/tushardevx01/)  
