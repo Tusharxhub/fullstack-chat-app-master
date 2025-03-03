@@ -68,8 +68,8 @@ npm start
 
 📩 **Contact Me:**  
 📧 [*Email*](mailto:t.k.d.dey2033929837@gmail.com)  
-🔗 [*GitHub*] (https://github.com/Tusharxhub)  
-📸 [*Instagram*] (https://www.instagram.com/tushardevx01/)  
+🔗 [*GitHub*](https://github.com/Tusharxhub)  
+📸 [*Instagram*](https://www.instagram.com/tushardevx01/)  
 
 🌟 **Star this repo if you love it!** 🚀💖  
 
