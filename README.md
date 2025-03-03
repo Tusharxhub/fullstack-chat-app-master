@@ -7,8 +7,10 @@
 
 ---
 
-## **🚀 Live Demo**  
-🔗 *[[Chatty App](https://chatty-gray-nine.vercel.app/)]*
+🚀 Live Demo
+Experience the application in action:
+
+🔗 Chatty App(https://chatty-gray-nine.vercel.app/) – Live Preview
 
 ---
 
