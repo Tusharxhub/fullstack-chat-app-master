@@ -34,9 +34,9 @@
 
 ## **📸 Screenshots**  
 
-| ✨ Login / Sign In | 💬 Chat Interface | 🔄 Modes |
+| ✨Sign up | 💬 Login | ⚙️ Setting |
 |------|------|------|
-| ![Login](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Log%20in.png?raw=true) | ![Chat](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Chat%20Interface.png?raw=true) | ![Modes](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Modes.png?raw=true) |
+| ![Sign up](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Sign%20up.png?raw=true) | ![Login](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Login.png?raw=true) | ![Setting](https://github.com/Tusharxhub/fullstack-chat-app-master/blob/main/Setting.png?raw=true) |
 
 ---
 
