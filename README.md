@@ -67,9 +67,9 @@ npm start
 💡 Got ideas? Found a bug? PRs are welcome!  
 
 📩 **Contact Me:**  
-📧 **Email:** [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)  
-🔗 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)  
-📸 **Instagram:** [TusharDevX01](https://www.instagram.com/tushardevx01/)  
+📧 [*Email*](mailto:t.k.d.dey2033929837@gmail.com)  
+🔗 [*GitHub*] (https://github.com/Tusharxhub)  
+📸 [*Instagram*] (https://www.instagram.com/tushardevx01/)  
 
 🌟 **Star this repo if you love it!** 🚀💖  
 
