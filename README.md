@@ -8,7 +8,7 @@
 ---
 
 ## **🚀 Live Demo**  
-🔗 **[Click Here to Experience the Magic](#)** *(Coming Soon!)*  
+🔗 **[[Click Here to Experience the Magic](https://chatty-gray-nine.vercel.app/)](#)** 
 
 ---
 
